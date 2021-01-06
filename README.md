@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] A bill split feature for a startard size table(5 people max)!
+- [X] A bill split feature for a standard size table(5 people max)!
 
 ## Video Walkthrough
 
