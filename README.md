@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] A splitting bill feature for a startard size table(5 people max)!
+- [X] A bill split feature for a startard size table(5 people max)!
 
 ## Video Walkthrough
 
@@ -34,7 +34,7 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was very straighforward and no real challenges were encountered.
 
 ## License
 
